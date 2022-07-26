@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200mm"
+   height="200mm"
+   viewBox="0 0 200 200"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Test.svg"
+   inkscape:export-filename="E:\UNITY\Oldschool Video Music\Assets\Textures\Test.png"
+   inkscape:export-xdpi="137.16"
+   inkscape:export-ydpi="137.16"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.90583672"
+     inkscape:cx="279.29978"
+     inkscape:cy="449.30835"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-size:25.6509px;line-height:1.25;font-family:'Press Start 2P';-inkscape-font-specification:'Press Start 2P, Normal';font-variant-ligatures:none;stroke-width:1.06878"
+       x="2.3073452"
+       y="192.42729"
+       id="text1706"
+       inkscape:export-filename="E:\UNITY\Oldschool Video Music\Assets\Textures\text1706.png"
+       inkscape:export-xdpi="249.69398"
+       inkscape:export-ydpi="249.69398"><tspan
+         sodipodi:role="line"
+         id="tspan1704"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:JackeyFont;-inkscape-font-specification:JackeyFont;fill:#ffffff;fill-opacity:1;stroke-width:1.06878"
+         x="2.3073452"
+         y="192.42729">G<tspan
+   style="font-size:16.673px;baseline-shift:sub;stroke-width:1.06878"
+   id="tspan59127">litch</tspan> A<tspan
+   style="font-size:16.673px;baseline-shift:sub;stroke-width:1.06878"
+   id="tspan60131">rt</tspan> A<tspan
+   style="font-size:16.673px;baseline-shift:sub;stroke-width:1.06878"
+   id="tspan61105">udio</tspan> L<tspan
+   style="font-size:16.673px;baseline-shift:sub;stroke-width:1.06878"
+   id="tspan62631">ab</tspan></tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:JackeyFont;-inkscape-font-specification:JackeyFont;fill:#ffffff;fill-opacity:1;stroke-width:1.06878"
+         x="2.3073452"
+         y="228.79947"
+         id="tspan44205" /></text>
+  </g>
+</svg>
